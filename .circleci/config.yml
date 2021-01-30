@@ -3,9 +3,6 @@ version: 2.1
 ## Build conditions
 # Build in any branch or tag
 build_always: &build_always
-  filters:
-    tags:
-      only: /^v.*/
 # Build only in master or in tags
 build_on_master: &build_on_master
   filters:
