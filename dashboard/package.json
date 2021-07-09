@@ -148,7 +148,7 @@
     "redux-mock-store": "^1.5.3",
     "stylelint": "^13.8.0",
     "stylelint-config-prettier": "^4.0.0",
-    "stylelint-config-recommended-scss": "^3.2.0",
+    "stylelint-config-recommended-scss": "^4.3.0",
     "stylelint-scss": "^3.3.0",
     "ts-jest": "^26.5.1",
     "tslint": "^5.9.1",
